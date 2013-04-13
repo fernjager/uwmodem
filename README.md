@@ -2,7 +2,8 @@ uwmodem
 =======
 
 A communications library written in C for an underwater modem.
-Not thread safe, not fully optimized for embedded systems, has a broken sliding window implementation.
+
+Not thread safe, not fully optimized for embedded systems, and has a broken sliding window implementation.
 
 Client 1
 ====
